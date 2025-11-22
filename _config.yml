@@ -23,3 +23,6 @@ plugins:
 collections:
   - publications
   - news
+
+exclude:
+  - showcase.html
