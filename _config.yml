@@ -26,3 +26,8 @@ collections:
 
 exclude:
   - showcase.html
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - .bundle
