@@ -1,0 +1,69 @@
+primary_name: "Rongxin Cheng <br/> (程荣鑫)"
+secondary_name: ""
+navbar_name: "Rongxin Cheng"
+
+positions:
+- name: IPADS@SJTU PhD candidate
+- name: Shanghai Jiao Tong University
+  logo: /assets/images/badges/sjtu.png  # Logo is optional
+
+
+email: "rxcheng612@sjtu.edu.cn"
+# cv_link: link-to-your-cv-file
+gscholar: VN7F89YAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: Sparrow612
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# linkedin: your-linked-in-id
+orcid: 0009-0001-2380-2407
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a fourth-year Ph.D. candidate in Computer Science at Shanghai Jiao Tong University, where I conduct
+    research in Distributed System Group,
+    supervised by <a href="https://ipads.se.sjtu.edu.cn/pub/members/xingda_wei" target="_blank">Prof. Xingwei Wei</a> and 
+    <a href="https://ipads.se.sjtu.edu.cn/pub/members/rong_chen" target="_blank">Prof. Rong Chen</a>.
+    Before joining IPADS, I received my bachelor degree of software engineering in Nanjing University, supervised by
+    <a href="https://minxuepan.github.io" target="_blank">Prof. Minxue Pan</a>. I joined BydeDance Seed training infrastructure
+    team in 2024, mentored by <a href="https://wencongxiao.github.io" target="_blank">Wencong Xiao</a>.
+    My research focuses on <strong>eliminating the performance uncertainty</strong> of machine learning systems in training and serving.
+    For now, and through the first half of 2026, I remain fully devoted to my doctoral research.
+  </p>
+
+portrait_url: /assets/images/photos/crx.jpg
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+education:
+- name: Shanghai Jiao Tong University
+  logo: /assets/images/badges/sjtu.png
+  position: >- 
+    Department of Computer Science <br/>
+    Ph.D. Candidate
+  date: Sep. 2022 - present
+- name: Nanjing University
+  logo: /assets/images/badges/nanjing-university-logo.png
+  position: B.S. in Software Engineering
+  date: Sep. 2018 - Jun. 2022
+
+experience:
+- name: ByteDance Seed
+  logo: /assets/images/badges/bytedance.png
+  position: Research Intern, mentored by <br/> Wencong Xiao
+  date: Nov. 2024 - present
+- name: Shanghai AI Lab
+  logo: /assets/images/badges/shlab.png
+  position: Research Intern, mentored by <br/> Prof. Rong Chen
+  date: Jul. 2023 - Nov. 2024
+- name: Tencent IEG
+  logo: /assets/images/badges/tencent.png
+  position: Software Development Intern
+  date: Jul. 2021 - Sep. 2021
+
+awards:
+- name: CETC The 14TH Research Institute Glarun Scholarship
+  date: 2023
+- name: National Scholarship
+  date: 2020
