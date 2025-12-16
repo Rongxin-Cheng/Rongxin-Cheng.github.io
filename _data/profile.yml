@@ -28,7 +28,8 @@ short_bio: >-
     Before joining IPADS, I received my bachelor degree of software engineering in Nanjing University, supervised by
     <a href="https://minxuepan.github.io" target="_blank">Prof. Minxue Pan</a>. I joined BydeDance Seed training infrastructure
     team in 2024, mentored by <a href="https://wencongxiao.github.io" target="_blank">Wencong Xiao</a>.
-    My research focuses on <strong>eliminating the performance uncertainty</strong> of machine learning systems in training and serving.
+    My research aims to <strong>eliminate the performance uncertainty</strong> of machine learning systems 
+    in both training and inference scenarios.
     For now, and through the first half of 2026, I remain fully devoted to my doctoral research.
   </p>
 
