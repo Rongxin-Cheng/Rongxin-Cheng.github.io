@@ -1,5 +1,5 @@
 ---
-title:          "Fast LLM Post-training via Decoupled and Best-of-N Speculation"
+title:          "Fast LLM Post-training via Decoupled and Fastest-of-N Speculation"
 # date:           2024-05-12 00:01:00 +0800
 selected:       true
 pub:            "ArXiv preprint"
